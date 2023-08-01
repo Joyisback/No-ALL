@@ -125,7 +125,7 @@ logo ="""
 ⭓──────────•◈•──────────────⭓
 
 \033[93;1m[+] FOUNDER ➤ ALEX-BRAND
-'\33[1;97m[+] IF NO RESULT [ON/OFF] AIRPLANE MODE
+\33[1;97m[+] IF NO RESULT [ON/OFF] AIRPLANE MODE
 \033[1;97m==============================================================="""
 
 
